@@ -1,1 +1,1 @@
-export const DB_NAME = "maneeshmkp" 
+export const DB_NAME = "maneeshmkp_DB" 
